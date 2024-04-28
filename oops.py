@@ -14,7 +14,7 @@ class Person:
         print("My hair is {}".format(self.hairs))
 
 
-a = Person("Yash","Long") 
+a = Person("Yash","Long")
 a.speak()
 a.hair()   
 
